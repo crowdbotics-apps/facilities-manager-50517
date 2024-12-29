@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.4",
+    "cookiecutter_context": {
+      "project_name": "Facilities Manager",
+      "project_slug": "facilities_manager_50517",
+      "project_dash_slug": "facilities-manager-50517",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "shawn_gregoire@brown.edu",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
